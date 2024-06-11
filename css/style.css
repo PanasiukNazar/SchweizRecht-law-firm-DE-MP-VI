@@ -689,6 +689,10 @@ figure {
     -o-transition: 0.3s;
     transition: 0.3s;
 }
+.services .desc {
+    height: 350px;
+}
+
 .services strong {
     font-weight: normal;
     color: #000;
